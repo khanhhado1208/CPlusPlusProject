@@ -1,0 +1,7 @@
+Helsinki 10:00 40 Oulu 19:00 50 200
+Helsinki 08:40 50 Tampere 10:25 40
+Rovaniemi 09:30 40 Oulu 13:00 50 55
+Joensuu 10:00 50 Kokkola 15:50 40 150
+Lappeenranta 11:00 40 Lahti 13:50 50 80
+Turku 8:00 70 Lapland 14:00 80 250
+Helsinki 09:30 40 Porvoo 10:45 50 60
